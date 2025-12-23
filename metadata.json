@@ -1,0 +1,7 @@
+{
+  "name": "SV Diagnostic App",
+  "description": "Sri Venkateswara Diagnostic mobile application with test booking, sample tracking, and report management.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
